@@ -1,0 +1,22 @@
+*, *:after {
+  box-sizing: border-box;
+}
+
+.container {
+  background-color: #edeff0;
+  overflow: auto;
+  font-family: 'Open Sans', sans-serif;
+
+}
+.nav h2{
+  float: left;
+  padding-left: 20px;
+}
+.nav img {
+  float: right;
+}
+hr {
+  margin-top: 8%;
+  width: 95%;
+  box-shadow: 3px 1px 10px rgba(102, 104, 105, 1);
+}
